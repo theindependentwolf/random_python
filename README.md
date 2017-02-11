@@ -4,4 +4,4 @@
 
 2. reddit_grammar_chek: detects when people have used "should/would/could have" wrong in popular social media site, Reddit. Uses Reddit's python API, praw. 
 
-NOTE: Scripts do not have all error handling mechanisms. So please watch out. 
+#NOTE: Scripts do not have all error handling mechanisms. So please watch out. 
